@@ -1,4 +1,4 @@
-# Elixir Exercism By Stefano
+# Fun with Exercism By Stefano
 
 Exercícios resolvidos da plataforma exercism.org na linguagem Elixir
 
